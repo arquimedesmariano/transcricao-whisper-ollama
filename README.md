@@ -25,5 +25,5 @@ Este projeto implementa um pipeline em Python que recebe um arquivo de áudio, r
 Clone o repositório:
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone https://github.com/arquimedesmariano/transcricao-whisper-ollama.git
 cd transcricao-whisper-ollama
